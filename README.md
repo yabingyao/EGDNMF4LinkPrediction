@@ -6,7 +6,7 @@ Link prediction aims to infer missing links or predict future links based on obs
 # Citing
 If you find _EGDNMF_ useful for your research, please consider citing the following paper:  
   
-@article{yao2023deep,  
+@article{EGDNMF-APIN-2023,  
   title={Deep non-negative matrix factorization with edge generator for link prediction in complex networks},  
   author={Yao, Yabing and He, Yangyang and Huang, Zhentian and Xu, Zhipeng and Yang, Fan and Tang, Jianxin and Gao, Kai},  
   journal={Applied Intelligence},  
